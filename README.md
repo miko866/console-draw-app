@@ -9,29 +9,9 @@ _You can create canvas for draw lines._<br><br>
 Start: `./main.py` <br>
 Development: `methods.py` and `helpers.py` <br>
 
-## Screenshot
+## Start
 
-    ...............................
-    .                             .
-    .                             .
-    .               x             .
-    .               x             .
-    .    xxxxxxxx   x             .
-    .    					  x             .
-    .    					  x             .
-    .    				    x             .
-    .   					  x             .
-    .    					  x             .
-    .    					  x             .
-    .    						x             .
-    .               x             .
-    .               x             .
-    .               x             .
-    .               x             .
-    .                             .
-    .                             .
-    .                             .
-    ...............................
-    [Line] [Canvas] [Rectangle] [Bucketfill] [Quit]
+At first you must create python virtual environment and then you can start app with command:
+`./main.py`
 
 Questions and Feedback to mdurik2@gmail.com
