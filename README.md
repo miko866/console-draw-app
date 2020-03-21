@@ -12,6 +12,6 @@ Development: `methods.py` and `helpers.py` <br>
 ## Start
 
 At first you must create python virtual environment and then you can start app with command:
-`./main.py`
+`python main.py`
 
 Questions and Feedback to mdurik2@gmail.com
